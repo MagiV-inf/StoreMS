@@ -1,5 +1,7 @@
 package bg.smg.model;
 
+import java.sql.Timestamp;
+
 public class Product {
     private int id;
     private String name;
